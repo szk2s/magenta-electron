@@ -3,6 +3,13 @@
 **NOTE: You can run this demonstration only when you are online.**
 
 ## Getting started
+### Check the version of your python
+```
+python3 --version
+```
+*Only python 3.7.3 is operation guaranteed.*  
+*If you get another version, upgrade recommended.*
+
 ### Create virtual environment
 
 ```
